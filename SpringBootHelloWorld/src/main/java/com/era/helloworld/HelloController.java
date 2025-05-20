@@ -1,4 +1,4 @@
-package com.era.scholarhat;
+package com.era.helloworld;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.GetMapping;
